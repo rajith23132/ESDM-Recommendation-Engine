@@ -6,7 +6,7 @@ from langchain_google_genai import ChatGoogleGenerativeAI
 llm = ChatGoogleGenerativeAI(
     model="gemini-2.0-flash",
     temperature=0.7,
-    google_api_key="AIzaSyBgNyOek4g4RhmY_-JG_lxG1n5kA-yKUE8"
+    google_api_key="YOur Gemini API"
 )
 
 def generate_response(user_query, products):
@@ -36,3 +36,4 @@ def generate_response(prompt: str) -> str:
         return response.content
     except Exception as e:
         return f"❌ Gemini failed to generate a response: {str(e)}"
+
