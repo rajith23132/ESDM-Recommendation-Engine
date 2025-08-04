@@ -1,0 +1,11 @@
+pandas
+numpy
+streamlit
+chromadb
+sentence-transformers
+langchain
+langchain-google-genai
+google-generativeai
+plotly
+python-dotenv
+tqdm
