@@ -1,5 +1,5 @@
 
-# ESDM GreenTech Recommendation Engine
+# ESDM Recommendation Engine
 
 ![Banner](banner-8192025_1280.png)
 
